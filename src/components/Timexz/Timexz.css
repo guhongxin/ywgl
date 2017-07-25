@@ -1,0 +1,14 @@
+.timexzbox{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.timexzbox a{
+    display: inline-block;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border: 1px solid #2B4058;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+}

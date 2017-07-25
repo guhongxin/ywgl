@@ -1,0 +1,39 @@
+.combox{
+}
+.combox_left{
+    color: #FFFFFF;
+    display: inline-block;
+    height: 35px;
+    width: 70px;
+    line-height: 30px;
+}
+.combox_down{
+
+}
+.combox_right{
+    display: inline-block;
+    color: #FFFFFF;
+    height: 30px;
+    width: 100px;
+    border: 1px solid #35485D;
+    position: relative;
+}
+.combox_down_word{
+    height: 30px;
+    width: 100px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.conbox_down_sling{
+    width: 0px;
+    height: 0px;
+    display: inline-block;
+    border-bottom:6px solid #FFFFFF;
+    border-left: 6px solid transparent;
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+}
+.conbox_down_remaining{
+    display: none;
+}

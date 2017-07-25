@@ -1,0 +1,5 @@
+.container{
+	min-height: calc(100% - 140px);
+	margin:20px 15px;
+	border-top: 1px solid transparent;
+}

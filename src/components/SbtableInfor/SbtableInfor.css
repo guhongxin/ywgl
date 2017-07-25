@@ -1,0 +1,44 @@
+.sbtableinfor{
+    margin: 10px 15px;
+}
+.sbqh{
+    padding-left: 10px;
+}
+.sbqh span{
+    width: 100px;
+    height: 30px;
+    border: 1px solid #2B4058;
+    color: #ffffff;
+    line-height: 30px;
+    text-align: center;
+    display: inline-block;
+    cursor:pointer;
+}
+.sbqh span:first-child{
+    border-radius: 5px 0px 0px 5px;
+}
+.sbqh span:last-child{
+    border-radius: 0px 5px 5px 0px;
+}
+.sbqh span:hover{
+    background-color: #2B4058;
+}
+.sbqh span.spanactive{
+    background-color: #2B4058;
+}
+.table_box{
+    margin-top: 40px;
+
+}
+.table_box tr th,
+.table_box tr td{
+    text-align: center;
+    color: #FFFFFF;
+}
+.sbtableinfortable{
+    margin-bottom:0px;
+}
+.sbtableinfortable tr td,
+.sbtableinfortable tr th{
+    border-right: 1px solid #dddddd;
+}

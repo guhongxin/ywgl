@@ -1,0 +1,11 @@
+.footer{
+	height: 50px;
+	background-color:#FFFFFF;
+	margin-top: 20px;
+}
+.footer_p{
+	text-align: center;
+	line-height: 50px;
+	margin-bottom: 0px;
+	letter-spacing:2px;
+}

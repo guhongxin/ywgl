@@ -1,0 +1,12 @@
+.xtglbox{
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: #132233;
+}
+.Modularone,.Modulartwo,
+.Modulartree,.Modularfoure{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 20px;
+}

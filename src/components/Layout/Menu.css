@@ -1,0 +1,29 @@
+.menu{
+
+}
+
+.menu ul li {
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	position: relative;
+}
+.menu ul li:hover,
+.menu ul .li_active{
+	background-color: #293426;
+}
+.menu ul .li_active::before,
+.menu ul li:hover::before{
+	content: '';
+	height: 40px;
+	width: 3px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #108EE9;
+}
+.menu ul li a{
+	color: #ffffff;
+	font-size: 14px;
+	text-decoration: none;
+}

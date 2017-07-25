@@ -1,0 +1,20 @@
+.sider{
+	height: 100%;
+	background-color: #3E3E3E;
+}
+
+.logo{
+	width: 100%;
+	height: 150px;
+	display: table;
+	text-align: center;
+}
+.tablecell{
+	display: table-cell;
+	vertical-align: middle;
+}
+.tablecell img{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+}

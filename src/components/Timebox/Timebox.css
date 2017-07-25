@@ -1,0 +1,23 @@
+.timebox{
+	height: 185px;
+	background-color: #18293C;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+.p_title{
+	color: #ffffff;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 20px;
+	margin-bottom: 30px;
+}
+.p_date{
+	font-size: 18px;
+	font-weight: 400;
+	color: #42F9F7;
+	text-align: center;
+}
+.timebox h1{
+	color: #42F9F7;
+	text-align: center;
+}

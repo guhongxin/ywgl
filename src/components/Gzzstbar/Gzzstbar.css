@@ -1,0 +1,18 @@
+.gzzstbarbox{
+
+}
+.gzzstbar_title{
+    height: 30px;
+}
+.gzzstbar_title p{
+    margin-bottom: 0px;
+    padding: 0px 15px;
+}
+.gzzstbar_title p span{
+    color: #ffffff;
+    line-height: 30px;
+}
+.drawgzzstboxSize{
+    margin-top: 15px;
+    height: 360px;
+}

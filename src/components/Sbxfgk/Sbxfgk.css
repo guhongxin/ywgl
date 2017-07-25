@@ -1,0 +1,18 @@
+.sbxfgkbox{
+
+}
+.sbxfgk_title{
+    height: 30px;
+}
+.sbxfgk_title p{
+    margin-bottom: 0px;
+    padding: 0px 15px;
+}
+.sbxfgk_title p span{
+    color: #ffffff;
+    line-height: 30px;
+}
+.sbxfgkPiebox{
+    height: 320px;
+    margin-top: 25px;
+}

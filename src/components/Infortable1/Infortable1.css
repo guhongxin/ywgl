@@ -1,0 +1,43 @@
+.infortablebox{
+    background-color: #18293C;
+    padding: 10px 10px;
+    overflow: hidden;
+    overflow-y: auto;
+    position: relative;
+}
+.p_title{
+    color: #FFFFFF;
+    margin-bottom: 0px;
+}
+.table_box{
+    margin-top: 40px;
+
+}
+.table_box tr th,
+.table_box tr td{
+    text-align: center;
+    color: #FFFFFF;
+}
+.sbtableinfortable{
+    margin-bottom:0px;
+    border: 1px solid #dddddd;
+}
+.sbtableinfortable tr td,
+.sbtableinfortable tr th{
+    border-right: 1px solid #dddddd;
+}
+.handle{
+    position: absolute;
+    bottom: 20px;
+}
+.handle a{
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid #35485D;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-right: 20px;
+}

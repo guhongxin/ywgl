@@ -1,0 +1,28 @@
+.treeMenu{
+    height: 50px;
+}
+.treeMenu ul{
+    list-style: none;
+}
+.treeMenu ul li{
+    float:left;
+    width: 100px;
+    height:50px;
+    text-align: center;
+    position:relative;
+
+}
+.treeMenu ul li a{
+    line-height:50px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.treeMenu ul li:not(:last-child)::after{
+    content:'';
+    height: 20px;
+    width: 1px;
+    background:#ffffff;
+    position: absolute;
+    top:15px;
+    right: 0px;
+}

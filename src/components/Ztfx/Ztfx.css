@@ -1,0 +1,13 @@
+.ztfx{
+    margin: 15px 10px;
+    background: #18293C;
+    border-top:1px solid transparent;
+}
+.ztfx .p_title{
+    margin-bottom:0px;
+    height: 20px;
+    line-height: 20px;
+    color: #ffffff;
+    padding-left: 20px;
+    margin-top: 10px;
+}

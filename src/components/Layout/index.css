@@ -1,0 +1,13 @@
+.layout{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+}
+.layout_height{
+	height: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: #F4F4F4;
+	overflow: hidden;
+	overflow-y: auto;
+}
